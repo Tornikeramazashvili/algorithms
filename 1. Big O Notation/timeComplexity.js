@@ -64,6 +64,10 @@ addUpTo2 uses 3 simple operations (multiplication, addition, division), regardle
 as the input n GROWS LAGER, the execution time REMAINS constant, Therefore GROWS INPUT = DOES NOT GROW TIME 📉
 so the time complexity is O(1).
 
-Finally we can say that addUpTo1 requires more iterations because of the loop n + 1 🌀,
-while addUpTo2 remains fast even for very large values of n because it performs a fixed number of operations 🧮.
+to sum up: 
+
+In Big O notation:
+O(1) means constant time. The algorithm's speed DOESN'T change with the SIZE of the input. It's always fast.
+O(n) means linear time. The algorithm's speed GROWS directly with the SIZE of the input. If the input doubles, the time it takes doubles.
+O(n²) means quadratic time. The algorithm's speed GROWS with the SQUARE of the input size. If the input doubles, the time it takes increases fourfold.
 */
