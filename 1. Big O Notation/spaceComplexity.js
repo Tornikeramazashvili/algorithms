@@ -1,6 +1,6 @@
 /* In previous document (1. Big O Notation • timeComplexity.js)
 
-"We analyze how the runtime of an algorithm increases as the size of the input increases - that was TIME complexicty ⌛
+We analyze how the runtime of an algorithm increases as the size of the input increases - that was TIME complexicty ⌛
 
 There is also SPACE complexity, which means that how much additional memory do we need to allocate in order to run the code 🏃
 

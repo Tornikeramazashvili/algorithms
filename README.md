@@ -8,8 +8,10 @@ Feel free to learn from, share, and use this information in your own projects or
 
 ## Folders and Files Sequence
 
-**1. Big O Notation**: This folder contains resources related to Big 0 notation, including explanations and examples.
+**1. Big O Notation**: This folder contains resources related to Big O notation, including explanations and examples.
 
-- **timeComplexity.js**: This file explores the concept of time complexity in greater detail, explaining how the runtime of an algorithm increases as the size of the input increases. It includes examples with different time complexities.
+- **timeComplexity.js**: This file Explains how execution time grows with input size, with examples of different time complexities.
 
-- **spaceComplexity.js**: This file explains space complexity, discussing how much additional memory is needed to run the code. It includes examples of primitives and reference types, highlighting their space requirements and differences.
+- **spaceComplexity.js**: This file Discusses memory usage of algorithms and compares space requirements for various data types.
+
+- **logarithm.js**: This file Describes logarithmic growth and how it affects algorithm efficiency, including examples of logarithmically increasing time complexities.
