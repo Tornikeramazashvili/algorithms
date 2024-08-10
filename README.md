@@ -6,6 +6,8 @@ I've decided to document various algorithms and data structures in JavaScript to
 
 Feel free to learn from, share, and use this information in your own projects or however you see fit.
 
+We start with Big O notation to analyze the performance of an algorithm, and compare how algorithms scale with input size, ensuring they are efficient, scalable, and effective, among other factors.
+
 ## Folders and Files Sequence
 
 **1. Big O Notation**: This folder contains resources related to Big O notation, including explanations and examples.
@@ -14,4 +16,6 @@ Feel free to learn from, share, and use this information in your own projects or
 
 - **spaceComplexity.js**: This file Discusses memory usage of algorithms and compares space requirements for various data types.
 
-- **logarithm.js**: This file Describes logarithmic growth and how it affects algorithm efficiency, including examples of logarithmically increasing time complexities.
+- **logarithms.js**: This file Describes logarithmic growth and how it affects algorithm efficiency, including examples of logarithmically increasing time complexities.
+
+- **objectsAndArrays**: This file describes the comparison between objects and arrays, as well as how their methods relate to time complexity.

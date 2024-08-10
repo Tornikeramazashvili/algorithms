@@ -1,25 +1,28 @@
 /*
-In this document, there will be theories only, but don't worry—I’ll make it simpler.
-
 In the previous document (1. Big O Notation • Time Complexity and • Space Complexity),
-we explored how INCREASING input affects RUNTIME, in time and in space. ⏳
+
+We discussed how INCREASING input affects RUNTIME, in time and in space. ⏳
+
+And In this document, there will be theories only, but don't worry — I’ll make it simpler.
 
 Okay, but WHAT THE HELL is a Logarithm? 🤔
 
 Well, we talked about what O(1), O(n), and O(n²) are, but there are also more complex math expressions, like logarithms. 🔢
 
-Logarithms express HOW MANY times you need to multiply or divide a base number to reach a given value. For example:
+Logarithms express HOW MANY times you need to divide or multiply a number to reach a value, for division this is 1 or less than 1.
+
+For example:
 
 - log₂(8) means how MANY TIMES you need to divide 8 by 2 to get 1. Here, log₂(8) = 3 because 2^3 = 8. 
 - log₂(25) describes how many times you need to divide 25 by 2 to approach 1. This is approximately 4.64,
- meaning it takes around 4.64 divisions by 2 to reduce 25 to 1. 🔍
+meaning it takes around 4.64 divisions by 2 to reduce 25 to 1. 🔍
 
 Note that division cannot be only by 2; it can be 3, 4, etc. 🔄
 
 Now let's compare how similar O(n) and O(log n) are: ⚖️
 
 - O(n): Time complexity GROWS linearly with the SIZE of the input. 📈
-- O(log n): Time complexity GROWS not linearly, but LOGARITHMICALLY with the size of the input. 📉
+- O(log n): Time complexity GROWS not linearly, but LOGARITHMICALLY with the size of the input. 📈
 
 When we say that something increases LOGARITHMICALLY,
 we are referring to the number of times you need to multiply or divide by a base number to reach or exceed a given value. 🔢
@@ -32,6 +35,12 @@ leading to faster performance for larger datasets compared to O(n), where the ti
 So in time complexity, O(1) is the best, O(n) is not bad, but O(log n) is better than O(n) and less than O(1). 🌟 
 
 Note that not every problem or algorithm has a time complexity of O(log n) 😂
+
+But if you have alogirithm with O(log n) time complexity, merry christmas !
+
+Certain searching algorithms have logarithmic time complexity, 
+
+some of the sorting algorithms invove logarithms,
 
 Where You Can Use O(log n):
 - Binary Search: Efficiently finding an element in a sorted array.

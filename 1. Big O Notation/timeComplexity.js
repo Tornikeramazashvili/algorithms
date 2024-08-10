@@ -1,4 +1,7 @@
-/* If you have multiple implementations of the same function,
+/* 
+Let's start algorithms with Big O notation!
+
+imagine, have multiple implementations of the same function,
 how would you determine which one is the best? 🤔
 
 That's where Big O notation comes in 🚀

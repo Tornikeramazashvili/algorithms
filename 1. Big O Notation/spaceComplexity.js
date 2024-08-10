@@ -1,4 +1,5 @@
-/* In previous document (1. Big O Notation • timeComplexity.js)
+/* 
+In previous document (1. Big O Notation • timeComplexity.js)
 
 We analyze how the runtime of an algorithm increases as the size of the input increases - that was TIME complexicty ⌛
 
