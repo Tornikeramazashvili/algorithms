@@ -2,11 +2,9 @@
 
 ## Introduction
 
-I've decided to document various algorithms and data structures in JavaScript to illustrate their impact on performance, scalability, and overall code quality.
+I've decided to document various algorithms and data structures in JavaScript to illustrate their impact on performance, scalability, and overall code quality 👨‍💻
 
-Feel free to learn from, share, and use this information in your own projects or however you see fit.
-
-In 1 section we start with Big O notation to analyze the performance of an algorithm, and compare how algorithms scale with input size, ensuring they are efficient, scalable, and effective, among other factors.
+Feel free to learn from, share, and use this information in your own projects or however you see fit 🤝
 
 ## Folders and Files Sequence
 
@@ -23,3 +21,5 @@ In 1 section we start with Big O notation to analyze the performance of an algor
 **2. Problem Solving**: This folder contains resources on problem-solving approaches, patterns, and current examples.
 
 - **problemSolvingApproach.js**: This file discusses the problem-solving approach, including examples and the steps needed to effectively solve problems.
+
+- **frequencyCounter.js**: This file provides an in-depth explanation of the frequency counter pattern, with two examples demonstrating its application in solving algorithmic problems efficiently.
