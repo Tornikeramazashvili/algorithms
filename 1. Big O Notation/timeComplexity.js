@@ -7,10 +7,10 @@ how would you determine which one is the best? 🤔
 That's where Big O notation comes in 🚀
 
 Big O helps us measure the efficiency of our code, and focuses 
-on how the algorithm's runtime grows relative to the size of the input 📈
+on how the algorithm's runtime grows relative to the size of the input. 📈
 
 For example if we want to write a function that 
-calculates the sum of a number 🔢
+calculates the sum of a number. 🔢
 */
 
 // example 1: 

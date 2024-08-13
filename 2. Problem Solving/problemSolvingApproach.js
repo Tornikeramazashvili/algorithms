@@ -89,7 +89,8 @@ console.log(charCountRefactored("hello")); // { h: 1, e: 1, l: 2, o: 1 }
 // As well, we have the same output in this case.
 console.log(charCountRefactored("h e Llo!")); // { h: 1, e: 1, l: 2, o: 1 }
 
-/* Let's sum up! 📚
+/* 
+Let's sum up! 📚
   
 If you have live coding or are just solving a problem on your own:
   

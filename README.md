@@ -6,6 +6,8 @@ I've decided to document various algorithms and data structures in JavaScript to
 
 Feel free to learn from, share, and use this information in your own projects or however you see fit 🤝
 
+_*Please note ordering of added topics may change over time._
+
 ## Folders and Files Sequence
 
 **1. Big O Notation**: This folder contains resources related to Big O notation, including explanations and examples.
@@ -23,3 +25,7 @@ Feel free to learn from, share, and use this information in your own projects or
 - **problemSolvingApproach.js**: This file discusses the problem-solving approach, including examples and the steps needed to effectively solve problems.
 
 - **frequencyCounter.js**: This file provides an in-depth explanation of the frequency counter pattern, with two examples demonstrating its application in solving algorithmic problems efficiently.
+
+**3. Recursion**: This folder contains resources on recursion, including explanations and examples.
+
+- **recursionIntroduction.js**: This file discusses the fundamentals of recursion, providing examples and steps for effective problem-solving.
